@@ -13,7 +13,7 @@ Build 'n install
 A simple 
 ```
 python setup.py install
-´´´
+```
 should do the trick.
 
 
@@ -31,7 +31,7 @@ print nphash.fnv1a(data)
 
 # along axis 1
 print nphash.fnv1a(data, axis=1)
-´´´
+```
 
 
 

@@ -8,6 +8,6 @@ setup(name = "nphash",
       description = 'Hashing numpy arrays',
       author = "Djings",
       author_email = "rogkor@gmail.com",
-      licence = "MIT",
+      license = "MIT",
       ext_modules = [modulenphash]
       )
